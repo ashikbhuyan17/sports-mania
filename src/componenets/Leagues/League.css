@@ -1,0 +1,17 @@
+.Box{
+    text-align:center;
+    background-color:#fff;
+    margin:20px;
+    border-radius: 5px;
+    padding: 40px 0;
+}
+.exploreBtn{
+    background-color: rgb(61, 61, 255);
+    color:#fff;
+    border:none;
+    outline: none;
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 3px;
+    cursor: pointer;
+}
